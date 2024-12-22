@@ -1,5 +1,5 @@
 {
-  "name": "Twitch Bot",
+  "name": "Bash Script",
   "dockerComposeFile": "docker-compose.yml",
   "service": "app",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
